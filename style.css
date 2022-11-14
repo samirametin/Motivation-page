@@ -40,10 +40,29 @@
 }
 .label{
     width: 100%;
-    height: auto;
+    height: 70%;
     filter: grayscale(100%);
 }
 .right{
     width: 45%;
     height: auto;
+}
+.icons{
+    display: flex;
+    height: 30%;
+    width: 100%;
+}
+.setting{
+    width: 100%;
+}.calendar{
+    width: 100%;
+    background-color: black;
+}
+.fa-solid{
+    font-size: 50px;
+    padding-bottom: 5%;
+}
+.icons p{
+    font-size: 15px;
+    font-weight: bolder;
 }
