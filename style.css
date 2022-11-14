@@ -51,12 +51,15 @@
     display: flex;
     height: 30%;
     width: 100%;
+    
+    
 }
 .setting{
     width: 100%;
 }.calendar{
     width: 100%;
     background-color: black;
+    color: white;
 }
 .fa-solid{
     font-size: 50px;
@@ -65,4 +68,7 @@
 .icons p{
     font-size: 15px;
     font-weight: bolder;
+}
+.calendar, .setting{
+    padding: 40px 80px;
 }
