@@ -109,8 +109,8 @@
         width: 100%;
         padding: 0px;
     }
-    .motivation_text h1, .motivation_text p{
+    .motivation_text h1 , .motivation_text p{
         display: block;
         text-align: center;
-        padding: 1%;
+        padding: 1%;}
     }
